@@ -1,0 +1,49 @@
+body{
+    font-family: 'Times New Roman', Times;
+    background-image: url(/images/kahawa.jpg);
+    background-size: 100%;
+    margin: 0;
+    padding: 20px;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+p{
+    color: rgb(252, 140, 5);
+}
+
+h1{
+    color: burlywood;
+}
+
+h2{
+    color: burlywood;
+}
+
+table{
+    width: 100;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+th{
+    color: antiquewhite;
+}
+
+a:hover{
+      text-decoration: underline;
+}
+
+.contact-box{
+    width: 50%;
+    height: auto;
+    padding: 15px;
+    background-color: rgba(131, 133, 127, 0.13);
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
